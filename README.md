@@ -12,18 +12,3 @@
 - 📫 How to reach me **irealmatin@gmail.com**
 
 - ⚡ Fun fact **every thing for fun**
-
-<div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=holic-x"/>
-</div>
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/irealmatin/irealmatin/assets/github-contribution-grid-snake.svg" />
-</div>
-
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=irealmatin&theme=github"/>
-</div>
-
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/irealmatin?template=classic&config.timezone=Asia%2FShanghai"/>
-</div>
